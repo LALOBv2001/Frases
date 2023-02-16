@@ -12,5 +12,6 @@ function obtenerFrase(){
     return frases[indice]
 }
 console.log(obtenerFrase());
+console.log(obtenerFrase());
 
 module.exports.obtenerFrase=obtenerFrase();
